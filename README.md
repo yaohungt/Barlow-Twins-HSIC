@@ -33,12 +33,12 @@ pip install thop
 `CIFAR10`, `STL10`, and [`Tiny_ImageNet`](https://gist.github.com/moskomule/2e6a9a463f50447beca4e64ab4699ac4).
 
 
-### Train and Linear Evaluation for Barlow Twins 
+### Train and Linear Evaluation using Barlow Twins 
 ```
 python main.py --lmbda 0.0078125 --corr_zero --batch_size 128 --feature_dim 128 --dataset cifar10
 python linear.py --dataset cifar10 --model_path results/0.0078125_128_128_cifar10_model.pth
 ```
-### Train and Linear Evaluation for HSIC
+### Train and Linear Evaluation using HSIC
 ```
 python main.py --lmbda 0.0078125 --corr_neg_one --batch_size 128 --feature_dim 128 --dataset cifar10
 python linear.py --dataset cifar10 --model_path results/neg_corr_0.0078125_128_128_cifar10_model.pth
