@@ -16,7 +16,7 @@ I hope this work will be useful for your research :smiling_face_with_three_heart
 ### Disclaimer
 A large portion of the code is from [this repo](https://github.com/leftthomas/SimCLR), which is a great resource for academic development. Note that we do not perform extensive hyper-parameters grid search and hence you may expect a performance boost after tuning some hyper-parameters (e.g., the learning rate).
 
-The official implementation of Barlow Twins can be found [here](https://github.com/facebookresearch/barlowtwins). We have also tried the HSIC_SSL in this official repo and we find similar performance (we tried on ImageNet and CIFAR10) between HSIC_SSL and Barlow Twins' method. 
+The official implementation of Barlow Twins can be found [here](https://github.com/facebookresearch/barlowtwins). We have also tried the HSIC_SSL in this official repo and we find similar performance (we tried on ImageNet-1K and CIFAR10) between HSIC_SSL and Barlow Twins' method. 
 
 ### Requirements
 - [Anaconda](https://www.anaconda.com/download/)
