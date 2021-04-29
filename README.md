@@ -6,7 +6,7 @@ Correspondence to:
   - Yao-Hung Hubert Tsai (yaohungt@cs.cmu.edu)
 
 ## Technical Report
-[**Connecting Barlow Twins with Negative-Samples-Free Contrastive Learning**](https://arxiv.org/pdf/??????.pdf)<br>
+[**Connecting Barlow Twins with Negative-Samples-Free Contrastive Learning**](https://arxiv.org/pdf/2104.13712.pdf)<br>
 [Yao-Hung Hubert Tsai](https://yaohungt.github.io), [Shaojie Bai](https://jerrybai1995.github.io), [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/), and [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/)<br>
 
 I hope this work will be useful for your research :smiling_face_with_three_hearts: 
