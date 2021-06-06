@@ -1,15 +1,6 @@
 # Barlow Twins and HSIC
 
-> Unofficial Pytorch implementation for Barlow Twins and HSIC_SSL on small datasets (CIFAR10, STL10, and Tiny ImageNet).
-
-Correspondence to: 
-  - Yao-Hung Hubert Tsai (yaohungt@cs.cmu.edu)
-
-## Technical Report
-[**A Note on Connecting Barlow Twins with Negative-Samples-Free Contrastive Learning**](https://arxiv.org/pdf/2104.13712.pdf)<br>
-[Yao-Hung Hubert Tsai](https://yaohungt.github.io), [Shaojie Bai](https://jerrybai1995.github.io), [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/), and [Ruslan Salakhutdinov](https://www.cs.cmu.edu/~rsalakhu/)<br>
-
-I hope this work will be useful for your research :smiling_face_with_three_hearts: 
+> Pytorch implementation for Barlow Twins and HSIC_SSL on small datasets (CIFAR10, STL10, and Tiny ImageNet).
 
 ## Usage
 
