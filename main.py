@@ -13,6 +13,9 @@ from model import Model
 
 import torchvision
 
+if torch.cuda.is_available():
+    torch.backends.cudnn.benchmark = True
+
 def off_diagonal(x):
     # return a flattened view of the off-diagonal elements of a square matrix
     n, m = x.shape
